@@ -1,0 +1,44 @@
+[
+    {
+        "name": "India",
+        "rank": 1,
+        "matches": [
+            {
+                "opponent": "Australia",
+                "result": "won"
+            },
+            {
+                "opponent": "Southafrica",
+                "result": "won"
+            }
+        ]
+    },
+    {
+        "name": "Australia",
+        "rank": 3,
+        "matches": [
+            {
+                "opponent": "India",
+                "result": "lose"
+            },
+            {
+                "opponent": "Southafrica",
+                "result": "lose"
+            }
+        ]
+    },
+    {
+        "name": "Southafrica",
+        "rank": 2,
+        "matches": [
+            {
+                "opponent": "Australia",
+                "result": "won"
+            },
+            {
+                "opponent": "India",
+                "result": "lose"
+            }
+        ]
+    }
+]

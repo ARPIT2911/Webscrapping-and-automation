@@ -1,0 +1,2 @@
+The three dots in JavaScript are the spread / rest operator. 
+The spread syntax allows an expression to be expanded in places where multiple arguments are expected.
